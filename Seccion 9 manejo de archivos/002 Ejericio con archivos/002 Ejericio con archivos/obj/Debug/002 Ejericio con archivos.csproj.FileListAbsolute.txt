@@ -1,0 +1,7 @@
+C:\Users\lenovo\Cursos\C#\C# Curso\C# Maestro en c#\Seccion 9 manejo de archivos\002 Ejericio con archivos\002 Ejericio con archivos\bin\Debug\002 Ejericio con archivos.exe.config
+C:\Users\lenovo\Cursos\C#\C# Curso\C# Maestro en c#\Seccion 9 manejo de archivos\002 Ejericio con archivos\002 Ejericio con archivos\bin\Debug\002 Ejericio con archivos.exe
+C:\Users\lenovo\Cursos\C#\C# Curso\C# Maestro en c#\Seccion 9 manejo de archivos\002 Ejericio con archivos\002 Ejericio con archivos\bin\Debug\002 Ejericio con archivos.pdb
+C:\Users\lenovo\Cursos\C#\C# Curso\C# Maestro en c#\Seccion 9 manejo de archivos\002 Ejericio con archivos\002 Ejericio con archivos\obj\Debug\002 Ejericio con archivos.csprojAssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# Maestro en c#\Seccion 9 manejo de archivos\002 Ejericio con archivos\002 Ejericio con archivos\obj\Debug\002 Ejericio con archivos.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# Maestro en c#\Seccion 9 manejo de archivos\002 Ejericio con archivos\002 Ejericio con archivos\obj\Debug\002 Ejericio con archivos.exe
+C:\Users\lenovo\Cursos\C#\C# Curso\C# Maestro en c#\Seccion 9 manejo de archivos\002 Ejericio con archivos\002 Ejericio con archivos\obj\Debug\002 Ejericio con archivos.pdb

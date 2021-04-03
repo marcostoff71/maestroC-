@@ -1,0 +1,13 @@
+C:\Users\lenovo\Cursos\C#\C# Curso\C# Maestro en c#\Seccion 9 manejo de archivos\001 Manejo de archivos\001 Manejo de archivos\bin\Debug\netcoreapp3.1\001 Manejo de archivos.exe
+C:\Users\lenovo\Cursos\C#\C# Curso\C# Maestro en c#\Seccion 9 manejo de archivos\001 Manejo de archivos\001 Manejo de archivos\bin\Debug\netcoreapp3.1\001 Manejo de archivos.deps.json
+C:\Users\lenovo\Cursos\C#\C# Curso\C# Maestro en c#\Seccion 9 manejo de archivos\001 Manejo de archivos\001 Manejo de archivos\bin\Debug\netcoreapp3.1\001 Manejo de archivos.runtimeconfig.json
+C:\Users\lenovo\Cursos\C#\C# Curso\C# Maestro en c#\Seccion 9 manejo de archivos\001 Manejo de archivos\001 Manejo de archivos\bin\Debug\netcoreapp3.1\001 Manejo de archivos.runtimeconfig.dev.json
+C:\Users\lenovo\Cursos\C#\C# Curso\C# Maestro en c#\Seccion 9 manejo de archivos\001 Manejo de archivos\001 Manejo de archivos\bin\Debug\netcoreapp3.1\001 Manejo de archivos.dll
+C:\Users\lenovo\Cursos\C#\C# Curso\C# Maestro en c#\Seccion 9 manejo de archivos\001 Manejo de archivos\001 Manejo de archivos\bin\Debug\netcoreapp3.1\001 Manejo de archivos.pdb
+C:\Users\lenovo\Cursos\C#\C# Curso\C# Maestro en c#\Seccion 9 manejo de archivos\001 Manejo de archivos\001 Manejo de archivos\obj\Debug\netcoreapp3.1\001 Manejo de archivos.csprojAssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# Maestro en c#\Seccion 9 manejo de archivos\001 Manejo de archivos\001 Manejo de archivos\obj\Debug\netcoreapp3.1\001 Manejo de archivos.AssemblyInfoInputs.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# Maestro en c#\Seccion 9 manejo de archivos\001 Manejo de archivos\001 Manejo de archivos\obj\Debug\netcoreapp3.1\001 Manejo de archivos.AssemblyInfo.cs
+C:\Users\lenovo\Cursos\C#\C# Curso\C# Maestro en c#\Seccion 9 manejo de archivos\001 Manejo de archivos\001 Manejo de archivos\obj\Debug\netcoreapp3.1\001 Manejo de archivos.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# Maestro en c#\Seccion 9 manejo de archivos\001 Manejo de archivos\001 Manejo de archivos\obj\Debug\netcoreapp3.1\001 Manejo de archivos.dll
+C:\Users\lenovo\Cursos\C#\C# Curso\C# Maestro en c#\Seccion 9 manejo de archivos\001 Manejo de archivos\001 Manejo de archivos\obj\Debug\netcoreapp3.1\001 Manejo de archivos.pdb
+C:\Users\lenovo\Cursos\C#\C# Curso\C# Maestro en c#\Seccion 9 manejo de archivos\001 Manejo de archivos\001 Manejo de archivos\obj\Debug\netcoreapp3.1\001 Manejo de archivos.genruntimeconfig.cache

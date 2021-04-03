@@ -1,0 +1,7 @@
+C:\Users\lenovo\Cursos\C#\C# Curso\C# Maestro en c#\Seccion 8 colecciones y execiones\078 ListasVsArry\078 ListasVsArry\bin\Debug\078 ListasVsArry.exe.config
+C:\Users\lenovo\Cursos\C#\C# Curso\C# Maestro en c#\Seccion 8 colecciones y execiones\078 ListasVsArry\078 ListasVsArry\bin\Debug\078 ListasVsArry.exe
+C:\Users\lenovo\Cursos\C#\C# Curso\C# Maestro en c#\Seccion 8 colecciones y execiones\078 ListasVsArry\078 ListasVsArry\bin\Debug\078 ListasVsArry.pdb
+C:\Users\lenovo\Cursos\C#\C# Curso\C# Maestro en c#\Seccion 8 colecciones y execiones\078 ListasVsArry\078 ListasVsArry\obj\Debug\078 ListasVsArry.csprojAssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# Maestro en c#\Seccion 8 colecciones y execiones\078 ListasVsArry\078 ListasVsArry\obj\Debug\078 ListasVsArry.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# Maestro en c#\Seccion 8 colecciones y execiones\078 ListasVsArry\078 ListasVsArry\obj\Debug\078 ListasVsArry.exe
+C:\Users\lenovo\Cursos\C#\C# Curso\C# Maestro en c#\Seccion 8 colecciones y execiones\078 ListasVsArry\078 ListasVsArry\obj\Debug\078 ListasVsArry.pdb

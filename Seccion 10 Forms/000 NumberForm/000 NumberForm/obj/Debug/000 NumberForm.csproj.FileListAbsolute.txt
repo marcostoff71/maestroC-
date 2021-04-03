@@ -1,0 +1,10 @@
+C:\Users\lenovo\Cursos\C#\C# Curso\C# Maestro en c#\Seccion 10 Forms\000 NumberForm\000 NumberForm\bin\Debug\000 NumberForm.exe.config
+C:\Users\lenovo\Cursos\C#\C# Curso\C# Maestro en c#\Seccion 10 Forms\000 NumberForm\000 NumberForm\bin\Debug\000 NumberForm.exe
+C:\Users\lenovo\Cursos\C#\C# Curso\C# Maestro en c#\Seccion 10 Forms\000 NumberForm\000 NumberForm\bin\Debug\000 NumberForm.pdb
+C:\Users\lenovo\Cursos\C#\C# Curso\C# Maestro en c#\Seccion 10 Forms\000 NumberForm\000 NumberForm\obj\Debug\000 NumberForm.csprojAssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# Maestro en c#\Seccion 10 Forms\000 NumberForm\000 NumberForm\obj\Debug\_000_NumberForm.Form1.resources
+C:\Users\lenovo\Cursos\C#\C# Curso\C# Maestro en c#\Seccion 10 Forms\000 NumberForm\000 NumberForm\obj\Debug\_000_NumberForm.Properties.Resources.resources
+C:\Users\lenovo\Cursos\C#\C# Curso\C# Maestro en c#\Seccion 10 Forms\000 NumberForm\000 NumberForm\obj\Debug\000 NumberForm.csproj.GenerateResource.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# Maestro en c#\Seccion 10 Forms\000 NumberForm\000 NumberForm\obj\Debug\000 NumberForm.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\C# Curso\C# Maestro en c#\Seccion 10 Forms\000 NumberForm\000 NumberForm\obj\Debug\000 NumberForm.exe
+C:\Users\lenovo\Cursos\C#\C# Curso\C# Maestro en c#\Seccion 10 Forms\000 NumberForm\000 NumberForm\obj\Debug\000 NumberForm.pdb
